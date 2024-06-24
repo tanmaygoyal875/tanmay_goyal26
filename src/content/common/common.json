@@ -1,0 +1,30 @@
+{
+    "name": "Tanmay Goyal",
+    "logoType": {
+        "mobile": "TG",
+        "desktop": "Tanmay Goyal"
+    },
+    "mainPicture": "/assets/TG.webp",
+    "mainPictureJPG": "/assets/G.webp",
+    "pronunciation": "/T-uh-n-m-a/",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "tg",
+    "email": "2022eeb1219@iitrpr.ac.in",
+    "linkedin": "https://www.linkedin.com/in/tanmaygoyal26/",
+    "github": "https://github.com/tanmaygoyal875",
+    "resume": "https://drive.google.com/file/d/1hftAj02OiyjL2d-FH4YsmwQ6Y2R9Pny4/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/tanmaygoyal26/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/tanmaygoyal875"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:2022eeb1219@iitrpr.ac.in"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "id": "other-project-post",
+        "title": "trAIl me cloth",
+        "year": "",
+        "github": "https://github.com/tanmaygoyal875/trAIl_me_cloth?tab=readme-ov-file",
+        
+        "tags": ["Python" , "Machine Lerning", "Artificial Intelligence", "Fuzzy logic models"],
+        "description": "Created personalized clothing recommendations using horoscope insights and lucky colors, integrated with a cloth shopping agency. Employed machine learning to curate harmonized color-coordinated options from platforms.",
+        "image": "/assets/other-projects/cc.webp",
+        "jpg": "/assets/other-projects/cc.webp"
+
+    },
+    {
+        "id": "other-project-noq",
+        "title": "WEB SCRAPPING",
+        "year": "",
+        "github": "https://github.com/tanmaygoyal875/web_scrpping-day1-",
+    
+        "tags": ["Python" , "BeautifulSoup", "Automated Chrome"],
+        "description": "Making Automated Chrome where it scrpping the data using inspect. Using the given Algo have scrpped data of medicine through netmeds, and 1mg and saving it in csv file using in another project",
+        "image": "/assets/other-projects/images.webp",
+        "jpg": "/assets/other-projects/images.webp"
+    },
+    {
+        "id": "other-project-bank-compare",
+        "title": "typoglycemia Survey",
+        "year": "HS202",
+        "github": "https://github.com/tanmaygoyal875/Survey_PsyCHOpy/tree/main",
+        "tags": ["PsychoPy"],
+        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
+        "readMore": "https://drive.google.com/file/d/1rgkrQJaQmdVvWa6gdqCAoqnyDY5VkVTZ/view?usp=sharing",
+        "image": "/assets/other-projects/psy.webp",
+        "jpg": "/assets/other-projects/psy.webp"
+    },
+    {
+        "id": "",
+        "title": "Hospital Management System",
+        "year": "",
+        "tags": ["ReactJs", "NodeJs", "ExpressJs", "MongoDb"],
+        "github": "https://github.com/tanmaygoyal875/hospital_manage",
+        "description": "Hospital Management System ",
+        "readMore": "",
+        "image": "",
+        "jpg": ""
+    }
+    
+]

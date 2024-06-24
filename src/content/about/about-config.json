@@ -1,0 +1,79 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Indian Institute of Technology Ropar",
+            "degree": "Bachelors in Electrical Engineering",
+            "duration": "Aug 2022 - May 2026",
+            "content": [
+                "GPA: 7.01/10",
+                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Brahma Shakti Public School",
+            "degree": "Senior Secondary (CBSE)",
+            "duration": "2021",
+            "content": [
+                "Percentage : 85.4"
+            ]
+        }, 
+        {
+            "id": "edu-3",
+            "school": "Ashiana Public School",
+            "degree": "Secondary (CBSE)",
+            "duration": "2019",
+            "content": [
+                "Percentage : 90.6"
+            ]
+        }
+        
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "AWaDH - Agriculture & Water Technology Development Hub",
+            "position": "Project Intern",
+            "duration": "Jun 2023 - Dec 2023",
+            "description": [
+                "Engaged in the development of a sophisticated Cow Monitoring System, intricately focused on discerning bovine posture by means of meticulous data aggregation employing an accelerator sensor.​",
+                "Integrating a camera and SD card with an STM32 board to capture rapid-fire images of insects, particularly bees, and seamlessly uploading these images into the AWS cloud for storage and analysis."
+            ]
+        }
+        
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "tools": [
+                "C/C++",
+                "JavaScript",
+                "Python",
+                "HTML5",
+                "CSS",
+                "React",
+                ""
+            ]
+        },
+        {
+            "title": "Frameworks/Libraries",
+            "tools": ["ExpressJs", "NodeJs","ReactJs","Django", "Pytorch", "Tensorflow", "Flutter", "Pandas", "requests", "beautifulsoup", "irc"]
+        },
+        {
+            "title": "Softwares/Tools",
+            "tools": ["Git", "Github","MongoDB", "Firebase","Postman", "Canva", "Figma", "VSCode", "Google Colab", "blender", "NRF connect", "STM32CubeIDE", "OpenCV", "MATLAB"]
+        },
+
+        {
+            "title": "Key courses",
+            "tools": ["Algorithm Data Structures", "Digital Logic Design", "Calculus", "Differential Equations", "Linear Algebra", "Probability & stochastic processes"]
+        },
+        {
+            "title": "Core EE",
+            "tools": ["Basic Electronincs", "Material Science" ,"Signals and Systems","Digital Circuits","Electromechanics"]
+        }
+    ]
+}
+    
+

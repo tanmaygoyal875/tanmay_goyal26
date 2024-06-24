@@ -1,0 +1,54 @@
+[
+    {
+        "id": "featured-project-trackcta",
+        "title": "RNN Self Drive Car",
+        "year": "",
+        "location": "",
+        "demo": "https://tanmaygoyal875.github.io/RNN_self_drive_CAR/",
+        "github": "https://github.com/tanmaygoyal875/RNN_self_drive_CAR",
+        "tags": ["HTML", "CSS", "JavaScript", "Math", "Random Neural Network (RNN)"],
+        "description": "Implemented a self-driving car simulation in JavaScript using neural networks for navigation, with architecture and training based solely on mathematical principles, featuring random weight initialization and feedforward functionality for basic navigation control, all without external libraries, focusing on foundational neural network concepts.",
+        "image": "/assets/featured-projects/rnn.webp",
+        "jpg": "/assets/featured-projects/rnn.webp"
+    },
+    {
+        "id": "featured-project-trackcta",
+        "title": "Trade using Twitch CHAT",
+        "year": "",
+        "location": "",
+        "github": "https://github.com/tanmaygoyal875/trade_using_chat_/tree/main",
+        "tags": ["Python","Twitch IRC","ib_insync", "requests", "yfinance"],
+        "description": [
+            "Implementing API for twitch and crafting automated responses to incoming messages",
+            "Integrating it within an interactive trading framework, bridging the divide between the live market and the execution of order requests"
+        ],
+        "image": "/assets/featured-projects/twitch.webp",
+        "jpg": "/assets/featured-projects/twitch.jpeg"
+    },
+    {
+        "id": "featured-project-asctb-reporter",
+        "title": "Chat App",
+        "year": "",
+        "location": "",
+        "demo": "",
+        "github": "https://github.com/tanmaygoyal875/chat_app_fullstack",
+        "tags": ["React", "CSS", "HTML", "Node.js", "Express.js", "WebSockets (Socket.IO)", "MongoDB", "JWT"],
+        "description": "features a comprehensive chat application developed exclusively by the repository owner. Built with React for the frontend and Node.js for backend services, this application supports real-time communication with features such as user authentication, message broadcasting, and WebSocket integration. It is designed for scalability and responsiveness, making it suitable for handling concurrent users effectively in real-time chat scenarios.",
+        
+        "image": "/assets/featured-projects/chatapp.webp",
+        "jpg": "/assets/featured-projects/achatapp.webp"
+    },
+    {
+        "id": "featured-project-scrapbook",
+        "title": "Peg-Solver",
+        "year": "",
+        "location": "",
+        "tags": [""],
+        "demo": "",
+        "github": "https://github.com/tanmaygoyal875/peg-solitaire_solver",
+        "description": "A peg solver employing DFS and BFS algorithms to explore and solve peg solitaire puzzles by systematically navigating through game states to reach optimal solutions.",
+        "image": "/assets/featured-projects/peg.webp",
+        "jpg": "/assets/featured-projects/peg.webp"
+    }
+    
+]
